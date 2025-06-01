@@ -1,4 +1,4 @@
-# Day 22: Pong Game
+# Project 04: Pong Game
 
 ## Project Summary
 
