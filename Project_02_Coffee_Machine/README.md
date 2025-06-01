@@ -1,4 +1,4 @@
-# Day 15: Building a Coffee Machine program
+# Project 02: Building a Coffee Machine program
 
 # Summary: 
 With this project, I have finished the first 15 days of Dr. Angela Yu's 100 Days of Code Python Bootcamp. This is the beginning of intermediate territory of learning python.
